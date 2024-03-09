@@ -19,7 +19,7 @@ public class Java_9_Inheritance_Understanding
 {
     public static void main(String[] args) 
     {
-        System.out.println("\n------ Inheritance Unerstanding ------\n");
+        System.out.println("\n------ Inheritance Understanding ------\n");
 
         SmartPhone Samsung = new SmartPhone();
         Samsung.whatsapp();
